@@ -1,4 +1,4 @@
-# Brick Breaker Game (Java)
+# Brick Breaker Game 
 
 A basic implementation of the classic Brick Breaker (Breakout) game built using Java. The player controls a paddle to bounce a ball and break bricks. The game ends when all bricks are broken or the ball falls below the paddle.
 
